@@ -16,3 +16,5 @@ Our code mainly consists of  the below 8 functions where stats.c contains the fu
 
     sort_array() - Given an array of data and a length, sorts the array from largest to smallest.  (The zeroth Element should be the largest value, and the last element (n-1) should be the smallest value. )
 
+Here we have implemented all the above functions with a charecter array but I used the ASCII values of those values for the statistic analysis.
+
